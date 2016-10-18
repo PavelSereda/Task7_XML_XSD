@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://www.sereda.com/menu-schema"
+         xsi:schemaLocation="http://www.sereda.com/menu-schema menu-schema.xsd">
+
+    <menuPage pageType="cold_snacks">
+        <dish>
+            <photo>1.jpj</photo>
+            <title>Ассорти рыбное</title>
+            <serving>100/20/15</serving>
+            <variations>
+                <variation>
+                    <title>Слабосолёная форель, сёмга</title>
+                    <price/>
+                </variation>
+            </variations>
+        </dish>
+        <dish>
+            <photo>2.jpg</photo>
+            <title>Тарталетки с красной икрой</title>
+            <serving>60/50</serving>
+            <variations>
+                <variation>
+                    <title>Тарталетки с красной икрой</title>
+                    <price/>
+                </variation>
+            </variations>
+        </dish>
+        <dish>
+            <photo>3.jpg</photo>
+            <title>Закуска по-русски</title>
+            <serving>70/50/2/10</serving>
+            <variations>
+                <variation>
+                    <title>Кусочки атлантической сельди с отварным картофелем,
+                        луком, лимоном и зеленью
+                    </title>
+                    <price/>
+                </variation>
+            </variations>
+        </dish>
+        <dish>
+            <photo>4.jpg</photo>
+            <title>Куринный рулет</title>
+            <serving>105/5</serving>
+            <variations>
+                <variation>
+                    <title>Куринный рулет собственного производства</title>
+                    <price/>
+                </variation>
+            </variations>
+        </dish>
+        <dish>
+            <photo>5.jpg</photo>
+            <title>Бастурма</title>
+            <serving>50/5</serving>
+            <variations>
+                <variation>
+                    <title>Вяленая вырезка из говяжьего мяса</title>
+                    <price/>
+                </variation>
+            </variations>
+        </dish>
+        <dish>
+            <photo>6.jpg</photo>
+            <title>Ассорти мясное</title>
+            <serving>100/30</serving>
+            <variations>
+                <variation>
+                    <title>
+                        Нарезка из буженины, бастурмы,
+                        куриного рулета собственного производства
+                        и колбасы
+                    </title>
+                    <price/>
+                </variation>
+            </variations>
+        </dish>
+        <dish>
+            <photo>7.jpg</photo>
+            <title>Язык отварной</title>
+            <serving>80/20/1</serving>
+            <variations>
+                <variation>
+                    <title>
+                        Нарезка нежного говяжьего языка, подаётся
+                        с хреном
+                    </title>
+                    <price/>
+                </variation>
+            </variations>
+        </dish>
+        <dish>
+            <photo>8.jpg</photo>
+            <title>Ассорти баклажаны</title>
+            <serving>100/5</serving>
+            <variations>
+                <variation>
+                    <title>Жаренные баклажаны с помидорами</title>
+                    <price>1</price>
+                </variation>
+                <variation>
+                    <title>Жаренные баклажаны с чесноком</title>
+                    <price>2</price>
+                </variation>
+                <variation>
+                    <title>Жаренные баклажаны с орехами</title>
+                    <price>3</price>
+                </variation>
+            </variations>
+        </dish>
+    </menuPage>
+
+    <menuPage pageType="hot_snacks">
+
+        <dish>
+            <photo>9.jpg</photo>
+            <title>Лобио с шампиньонами</title>
+            <serving>150/5</serving>
+            <variations>
+                <variation>
+                    <title>Фасоль с шампиньонами и грецким орехом</title>
+                    <price>105</price>
+                </variation>
+            </variations>
+        </dish>
+
+        <dish>
+            <photo>10.jpg</photo>
+            <title>Жульен</title>
+            <serving>120/1</serving>
+            <variations>
+                <variation>
+                    <title>Жульен с курицей</title>
+                    <price>145</price>
+                </variation>
+                <variation>
+                    <title>Жульен с грибами</title>
+                    <price>155</price>
+                </variation>
+            </variations>
+        </dish>
+
+        <dish>
+            <photo>11.jpg</photo>
+            <title>Креветки</title>
+            <serving>120/30</serving>
+            <variations>
+                <variation>
+                    <title>Креветки отварные</title>
+                    <price>135</price>
+                </variation>
+                <variation>
+                    <title>Креветки жаренные</title>
+                    <price>155</price>
+                </variation>
+            </variations>
+        </dish>
+
+    </menuPage>
+
+
+    <menuPage pageType="breakfasts">
+        <dish>
+            <photo>12.jpg</photo>
+            <title>Глазунья</title>
+            <serving>150</serving>
+            <variations>
+                <variation>
+                    <title>2 яйца (на выбор: ветчина, сыр, помидор)</title>
+                    <price/>
+                </variation>
+            </variations>
+        </dish>
+
+        <dish>
+            <photo>13.jpg</photo>
+            <title>Омлет</title>
+            <serving>100</serving>
+            <variations>
+                <variation>
+                    <title></title>
+                    <price/>
+                </variation>
+            </variations>
+        </dish>
+
+        <dish>
+            <photo>12.jpg</photo>
+            <title>Блинчики с мясом</title>
+            <serving>150</serving>
+            <variations>
+                <variation>
+                    <title>Жаренные блинчики с мясом</title>
+
+                    <price/>
+                </variation>
+            </variations>
+        </dish>
+
+    </menuPage>
+
+</menu>
